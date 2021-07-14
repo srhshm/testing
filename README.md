@@ -4,10 +4,10 @@
 ### CONTACT
 
 <!-- Add your details -->
-✉️: email_id@xxxxx.com 
-&nbsp;&nbsp; 📲 +91-XXXXXXXXXX
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/kumar-vishwesh-8b059170/) 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Website](https://datasciencestunt.com/)
+✉️: sarahshumwj@gmail.com
+&nbsp;&nbsp; 📲 +65-91075605
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in//) 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Website]()
 <!-- CONTACT Section Ends -->
 
 <!-- ABOUT Section Starts -->
